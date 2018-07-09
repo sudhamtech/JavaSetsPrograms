@@ -1,2 +1,1 @@
-# SpellCheck.java
-Hadoop and Big Data
+These are the Hadoop and  Big Data Examples
